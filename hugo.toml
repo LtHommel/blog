@@ -1,0 +1,22 @@
+baseURL = 'http://hommel.lt/'
+languageCode = 'en-us'
+title = 'Lt. Hommel'
+theme = "shibui"
+
+[params]
+  author = "Wilhelmina"
+  email = "bzzz@hommel.lt"
+
+[menu]
+  [[menu.main]]
+    name = "Posts"
+    url = "/posts/"
+    weight = 1
+  [[menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = 2
+  [[menu.main]]
+    name = "Now"
+    url = "/now/"
+    weight = 3
