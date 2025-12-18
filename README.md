@@ -1,0 +1,4 @@
+- [ ] publiceer
+- [ ] vul of verwijder about page
+- [ ] vul of verwijder now page
+- [ ] vogel uit hoe het zit met die dns records (volgende post?)
