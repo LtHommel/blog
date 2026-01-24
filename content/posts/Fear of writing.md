@@ -1,8 +1,8 @@
 +++
 date = '2026-01-24T14:46:00Z'
 draft = false
-title = "Fear of writing"
-tags = [personal]
+title = 'Fear of writing'
+tags = []
 +++
 I am scared of writing. There, I said it. I wrote it! More specifically, I am scared of people reading my writing. 
 
